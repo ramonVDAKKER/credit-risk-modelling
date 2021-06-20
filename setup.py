@@ -13,7 +13,7 @@ def requirements():
 
 setup(
     name="credit-risk-modelling",
-    version="0.0.2",
+    version="0.0.4",
     description="Tools for Credit Risk Modelling",
     long_description=readme(),
     long_description_content_type="text/markdown",
