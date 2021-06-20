@@ -1,6 +1,4 @@
 
-|Travis|_ |PythonVersion|_ |PyPI version fury.io|
-
 .. |Travis| image:: https://api.travis-ci.com/ramonVDAKKER/mortgage_calculus.svg?branch=main
 .. _Travis: https://travis-ci.com/ramonVDAKKER/mortgage_calculus
 
