@@ -10,7 +10,7 @@ class TestDummy:
 
     def test1(self):
         """Test dummy."""
-        a = 1
-        b = 1.0
+        a = 2
+        b = 2.0
         np.testing.assert_almost_equal(a, b)
 
