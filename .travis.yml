@@ -12,6 +12,8 @@ deploy:
   username: __token__
   password:
     secure: hFwP5zViQSO/KklW8PxUUPWrMXYS3y8Wod8AH6ev3B13tgFM9kbR4gshLSkWbNdqdDLmarAhiMADUY8zftyrw6nIUmaV0L/3ZHH/CZVkXmfwpii6KVL+RfljwTJimHZq9U/oPaMgotpBdVCxbT8WaPvBM/F9XaJATBskVrqAUbNDJqkg2JApwLPYPFyo5JYvR4WWwx8CvzmYAe4p9f/R+pawSC9M20Jg6bmFvDOiFRSIB6kqEp6KzQtU1TwpcfkrEt+asdVZhISEwjoSJtZ0CkdcBegt+pn13BItbyCTAy/ug24ArEhcrGFRb0rvHgwdkvh+sD2Udh+h0cn7AUSW4OPMgGw4vi/ArbPZlKcuOkCkGR0eT+5L2//4MIJP5luRpDlBE0Svi2TujK50bYmmL4i/eyfLG1/l0POIozQ5cs/vT2gWfmK1AI5OL9xMRLOFGKt6Tt/Lv3dF30OJgiR+cOf3Q1KYChCe4Wu063jSb6WRULhi7wcqQZlG/YC/hjVvKZ4Z68X4qzoYFRzob7C4ZXFbfeNnLn4x3wH1d21KgyYSyOA6tpwaEVFBqbgeJ5XNhoBBdNnVWXw33EZqRUBP9O+QZxFIPY3YWNst7/F3A8MNEyrZWmIXReTX2ORhJqnGFDAumdA6iygQlfxGJocCMS68O3+I5b0ahlpA7K4YeN0=
+  skip_existing: true
   on:
     tags: true
     branch: main
+
