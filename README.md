@@ -1,2 +1,2 @@
 # credit-risk-modelling
-Credit Risk Modelling
+This package contains several functions that are useful in Credit Risk Modelling.
